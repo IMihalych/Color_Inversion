@@ -1,9 +1,7 @@
 #ifndef IMAGEPROCESSOR_H
 #define IMAGEPROCESSOR_H
-
 #include <QObject>
 #include <QImage>
-//#include <QMessageBox>
 
 class ImageProcessor : public QObject
 {
