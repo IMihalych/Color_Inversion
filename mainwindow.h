@@ -33,8 +33,7 @@ private:
     ImageProcessor *processor;
     QString currentFile;
     QImage image;
-    QGraphicsScene *scene;
-    
+        
 };
 
 #endif // MAINWINDOW_H
