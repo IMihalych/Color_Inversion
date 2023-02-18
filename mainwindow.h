@@ -34,8 +34,7 @@ private:
     QString currentFile;
     QImage image;
     QGraphicsScene *scene;
-    QThread *thread;
-
+    
 };
 
 #endif // MAINWINDOW_H
